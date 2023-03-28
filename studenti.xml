@@ -16,8 +16,20 @@
         <Nume>Doe</Nume>
         <Grupa>124</Grupa>
     </student>
+    <student ID="S001">
+        <Nume>John Doe</Nume>
+        <Grupa>123</Grupa>
+    </student>
+    <student ID="19">
+        <Nume>Doe</Nume>
+        <Grupa>234</Grupa>
+    </student>
     <student ID="9">
         <Nume>Doe</Nume>
         <Grupa>234</Grupa>
+    </student>
+    <student ID="10">
+        <Nume>John Doe</Nume>
+        <Grupa>123</Grupa>
     </student>
 </Entitati>
