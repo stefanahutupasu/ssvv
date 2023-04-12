@@ -21,7 +21,7 @@ import validation.Validator;
 public class Lab4IC
 {
     @Test
-    public void testAddStudent() {
+    public void testAddStudent1() {
         // create a new instance of the class that manages the students
         Validator<Student> studentValidator = new StudentValidator();
         Validator<Tema> temaValidator = new TemaValidator();
@@ -45,7 +45,7 @@ public class Lab4IC
     }
 
     @Test
-    public void testAddAssignment() {
+    public void testAddAssignment1() {
         // create a new instance of the class that manages the students
         Validator<Student> studentValidator = new StudentValidator();
         Validator<Tema> temaValidator = new TemaValidator();
@@ -72,7 +72,7 @@ public class Lab4IC
     }
 
     @Test
-    public void testAddGrade() {
+    public void testAddGrade1() {
         // create a new instance of the class that manages the students
         Validator<Student> studentValidator = new StudentValidator();
         Validator<Tema> temaValidator = new TemaValidator();
