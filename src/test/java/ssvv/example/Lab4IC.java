@@ -18,7 +18,7 @@ import validation.TemaValidator;
 import validation.Validator;
 
 
-public class Lab4_IC
+public class Lab4IC
 {
     @Test
     public void testAddStudent() {
